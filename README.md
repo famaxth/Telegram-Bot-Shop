@@ -4,7 +4,7 @@ AutoShop in Telegram. There is a cool admin panel where you can configure everyt
 
 Hi! I present to you the update of my AutoShop.
 A lot of work was done, the bot was completely rewritten from scratch. The bot is written using pyTelegramBotApi(telebot).
-The update added new features, improved existing ones, and optimized the operation of the bot itself.
+The update added new features, improved existing ones, and optimized the operation of the bot itself. Example - [@kiujhouitrbot](t.me/kiujhouitrbot)
 
 # New
 

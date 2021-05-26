@@ -1,10 +1,18 @@
 Telegram Bot Shop (AutoSeller)
 ==================
+
+<p align="center">
+  <img src="https://i.ibb.co/g6cpnJS/1520680073-photo-2018-03-09-15-06-10-photo-resizer-ru.png" alt="1520680073-photo-2018-03-09-15-06-10-photo-resizer-ru" />
+</p>
+
+
 AutoShop in Telegram. There is a cool admin panel where you can configure everything.
 
 Hi! I present to you the update of my AutoShop.
 A lot of work was done, the bot was completely rewritten from scratch. The bot is written using pyTelegramBotApi(telebot).
 The update added new features, improved existing ones, and optimized the operation of the bot itself. Example - [@kiujhouitrbot](https://t.me/kiujhouitrbot)
+
+<a href="https://ibb.co/dpWQDbk"><img src="https://i.ibb.co/HPFrqNG/uFsyoBGS.jpg" alt="uFsyoBGS" border="0"></a>
 
 # New
 
@@ -105,3 +113,12 @@ Features that will be added in the future:
    ▉ ▉ ▉ ▉ ▉ ▉ __How do I go to the directory with the bot?__
    
                            Open the command line (cmd), write: cd path/to/folder/with/bot
+
+# Photos
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/x6KVLDN/D0CL3ztv.jpg" alt="D0CL3ztv" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/h2mjV0R/ufkrB9sR.jpg" alt="ufkrB9sR" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/CwcPVWL/nZ7U3J98.jpg" alt="nZ7U3J98" border="0"></a>
+<a href="https://ibb.co/52xx1H6"><img src="https://i.ibb.co/x3882TD/OPAYk8vO.jpg" alt="OPAYk8vO" border="0"></a>
+<a href="https://ibb.co/PzNZfxJ"><img src="https://i.ibb.co/FqKbj6c/NWzQw3mz.jpg" alt="NWzQw3mz" border="0"></a>
+<a href="https://ibb.co/9qJD2C6"><img src="https://i.ibb.co/BgmpjSb/Q1ksaMjN.jpg" alt="Q1ksaMjN" border="0"></a>

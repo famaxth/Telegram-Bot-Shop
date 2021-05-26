@@ -6,6 +6,12 @@ Hi! I present to you the update of my AutoShop.
 A lot of work was done, the bot was completely rewritten from scratch. The bot is written using pyTelegramBotApi(telebot).
 The update added new features, improved existing ones, and optimized the operation of the bot itself.
 
+# New
+
+- Added language change feature
+- Viewing and receiving logs as a file or message
+- Fixed some bugs
+
 # Features
 
 ## General
@@ -99,7 +105,3 @@ Features that will be added in the future:
    ▉ ▉ ▉ ▉ ▉ ▉ __How do I go to the directory with the bot?__
    
                            Open the command line (cmd), write: cd path/to/folder/with/bot
-
-
-
-

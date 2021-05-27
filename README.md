@@ -84,6 +84,7 @@ Congratulations! The bot is running.
 # Coming soon
 Features that will be added in the future:
 * Aiogram
+* Architecture of project
 
 # Requirements
 * [pyTelegramBotApi 3.7.4](https://pypi.org/project/pyTelegramBotAPI/)

@@ -1,8 +1,9 @@
-#Production by Berlin
-#Telegram - @por0vos1k
-
-
 # - *- coding: utf- 8 - *-
+
+#Production by Famaxth
+#Telegram - @famaxth
+
+
 import sqlite3
 
 def ensure_connection(func):

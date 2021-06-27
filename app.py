@@ -2888,7 +2888,7 @@ def callback_inline(call):
 					db.update_user_lang("English", config.admin_id)
 				else:
 					bot.send_message(call.message.chat.id, "The language has been changed to English!", reply_markup=menu.start_eng)
-					db.update_user_lang("English", message.chat.id)
+					db.update_user_lang("English", call.message.chat.id)
 			elif call.data == 'take_balance_bitcoin':
 				keyboard = types.InlineKeyboardMarkup()
 				but_1 = types.InlineKeyboardButton(text="Check payment", callback_data="Check payment 2")

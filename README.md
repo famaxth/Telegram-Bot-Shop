@@ -65,8 +65,9 @@ The update added new features, improved existing ones, and optimized the operati
 1. Download [Telegram](https://pypi.org/project/pyTelegramBotAPI/)
 2. Download [Python 3.9.1](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)
 3. Download, unpack the archive with the bot and open the file `config.py`
-4. Edit `token` and `admin_id`
-5. Open the command line (cmd), go to the directory with the bot and write:
+4. Edit `token` and `admin_id` in config.py
+5. Edit .txt files: `coinbase_api_key.txt`, `coinbase_api_secret.txt`, `edit_qiwi_money_number.txt` and `edit_qiwi_money_tokem.txt`
+6. Open the command line (cmd), go to the directory with the bot and write:
 ```
 pip install pyTelegramBotApi
 ```
@@ -80,6 +81,7 @@ pip install SimpleQIWI
 python app.py
 ```
 Congratulations! The bot is running.
+Very important! Do not delete the database.db file!
 
 # Coming soon
 Features that will be added in the future:

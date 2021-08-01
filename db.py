@@ -1,7 +1,7 @@
 # - *- coding: utf- 8 - *-
 
-#Production by Famaxth
-#Telegram - @famaxth
+#Production by Berlin
+#Telegram - @por0vos1k
 
 
 import sqlite3
@@ -9,7 +9,7 @@ import sqlite3
 def ensure_connection(func):
 
     def decorator(*args, **kwargs):
-        with sqlite3.connect('anketi.db') as conn:
+        with sqlite3.connect('database.db') as conn:
             result = func(conn, *args, **kwargs)
 
         return result

@@ -1,9 +1,5 @@
 # - *- coding: utf- 8 - *-
 
-#Production by Famaxth
-#Telegram - @famaxth
-
-
 import telebot
 import menu
 import config

@@ -1,7 +1,3 @@
-#Production by Famaxth
-#Telegram - @famaxth
-
-
 import telebot
 from telebot import types
 

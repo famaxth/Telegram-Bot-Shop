@@ -1,9 +1,5 @@
 # - *- coding: utf- 8 - *-
 
-#Production by Berlin
-#Telegram - @por0vos1k
-
-
 import sqlite3
 
 def ensure_connection(func):

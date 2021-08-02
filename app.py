@@ -1,27 +1,28 @@
 # - *- coding: utf- 8 - *-
 
-import telebot
-import menu
-import config
-import text
-import traceback
 import io
-import chardet
 import os
 import codecs
-import db
-import SimpleQIWI
+import chardet
 import logging
 import datetime
 import requests
+import traceback
 from time import sleep
+from functools import wraps
+
+import telebot
+import SimpleQIWI
 from SimpleQIWI import *
 from telebot import types
-from functools import wraps
-from coinbase.wallet.client import Client
-#from pycbrf import ExchangeRates
-from bittrex import BittrexClient
 from bittrex import BittrexError
+from bittrex import BittrexClient
+from coinbase.wallet.client import Client
+
+import db
+import menu
+import text
+import config
 
 
 bot = telebot.TeleBot(config.token, parse_mode=None)
@@ -44,14 +45,6 @@ try:
 	db.add_qiwi_later(balance)
 except:
 	print(traceback.format_exc())
-
-
-#def is_not_banned(func):
-	#@wraps(func)
-	#def decorator(message):
-		#if str(message.chat.id) not in banned_users:
-			#return func(message)
-	#return decorator
 
 
 file_1 = open("coinbase_api_key.txt", "r")

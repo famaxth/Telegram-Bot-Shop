@@ -1,5 +1,5 @@
-Telegram Bot Shop (AutoSeller)
-==================
+<h1 align="center">Telegram Bot Shop (AutoSeller)</h1>
+
 
 <p align="center">
   <img src="https://i.ibb.co/g6cpnJS/1520680073-photo-2018-03-09-15-06-10-photo-resizer-ru.png" alt="1520680073-photo-2018-03-09-15-06-10-photo-resizer-ru" />
